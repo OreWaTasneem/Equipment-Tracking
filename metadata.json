@@ -1,0 +1,6 @@
+{
+  "name": "VoltTrack - Electronics Lab Equipment Tracker",
+  "description": "Comprehensive electronics lab equipment inventory and usage tracking GUI with active checkouts, maintenance logs, OOP domain architecture, and bench diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
